@@ -1,9 +1,5 @@
 # 핀테크 서비스 벡엔드 개발자가 알려주는 시리즈 - 인증인가 편
 
-[https://github.com/pjt3591oo/auth_learning](https://github.com/pjt3591oo/auth_learning)
-
-해당 내용은 깃허브에서도 확인 가능합니다.
-
 1. 선행학습
     1. **[[암호화] 인코딩, 디코딩, 해시, 암호화, 복호화](https://blog.naver.com/pjt3591oo/222696610311)**
     2. **[[서버] 인증에 활용하는 JWT는 어떻게 보안을 유지할 수 있는가?](https://blog.naver.com/pjt3591oo/222689578991)**
