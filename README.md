@@ -16,7 +16,8 @@
     1. **[[nestjs] 핀테크 벡엔드 개발자가 알려주는 인증 & 인가 시스템 1편 - 프로젝트 구조 갖추기](https://blog.naver.com/pjt3591oo/223119899612)**
     2. **[[nestjs] 핀테크 벡엔드 개발자가 알려주는 인증 & 인가 시스템 2편 - 인증, 인가 구현](https://blog.naver.com/pjt3591oo/223120028951)**
     3. **[[nestjs] 핀테크 벡엔드 개발자가 알려주는 인증 & 인가 시스템 3편 - 암/복호화 도구와 토큰 블랙 리스트 관리](https://blog.naver.com/pjt3591oo/223121546463)**
-    
+    4. **[[nestjs] 핀테크 벡엔드 개발자가 알려주는 인증 & 인가 시스템 4편 - 깃허브/구글 oauth 인증](https://blog.naver.com/pjt3591oo/223137573151)**
+
 4. [보너스] 블록체인
     1. **[[ethereum] 개인키와 공개키 그리고 트랜잭션 서명](https://blog.naver.com/pjt3591oo/222848813325)**
     2. **[[ethereum] mnemonic 생성, privatekey 복구와 계층적 구조의 원리](https://blog.naver.com/pjt3591oo/221598854549)**
